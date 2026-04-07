@@ -1,36 +1,37 @@
-# 👋 Hi, I'm Luoruirui
+# 👋 欢迎来到我的个人主页！
 
-🎓 Data Science & Big Data Technology @ Nanjing University of Posts and Telecommunications  
-📊 Focus on Data Analysis / Machine Learning / AI Applications  
-🚀 Actively seeking Data Analyst / AI-related roles (Spring Recruitment)
+🎓 @南京邮电大学 Nanjing University of Posts and Telecommunications
+   数据科学与大数据技术专业 Data Science & Big Data Technology 
+📊 Focus on Data Analysis / Product Manager / AI Applications  
+🚀 Actively seeking Data Analyst / Product Manager / AI-related roles (Spring Recruitment)
 
 ---
 
 ## 🚀 About Me
 
-- 📈 Strong foundation in **statistics, machine learning, and data modeling**
-- 🧠 Experienced in **end-to-end data workflow**: data collection → cleaning → feature engineering → modeling → evaluation
-- 🤖 Hands-on experience with **AI applications (LLM, Agents, Resume Generation Systems)**
-- 💡 Interested in **Recommendation Systems / Data Mining / Intelligent Systems**
+- 📊 Solid background in **data analysis and machine learning**, with strong statistical foundation  
+- 🔄 Proficient in **end-to-end data pipeline**: data collection, preprocessing, feature engineering, modeling, and evaluation  
+- 🤖 Experienced in **building AI-driven applications**, including LLM-based systems and intelligent agents  
+- 🎯 Focused on **data-driven problem solving** and real-world application of machine learning models  
 
 ---
 
 ## 🛠 Tech Stack
 
 **Programming & Data Analysis**
-- Python | Pandas | NumPy | Matplotlib  
+- Python, Pandas, NumPy, Matplotlib
 
-**Machine Learning / AI**
-- XGBoost | Random Forest | K-Means | Scikit-learn  
+**Machine Learning & AI**
+- XGBoost, Random Forest, K-Means, Scikit-learn
 
-**AI Application**
-- LLM | Prompt Engineering | Multi-Agent Systems  
+**AI & LLM Applications**
+- Large Language Models (LLMs), Prompt Engineering, Retrieval-Augmented Generation (RAG), Multi-Agent Systems
 
-**Database & System**
-- MySQL | Neo4j | MongoDB  
+**Databases & Systems**
+- MySQL, Neo4j, MongoDB, Redis
 
-**Tools**
-- SPSS | Gradio | React  
+**Frameworks & Tools**
+- Gradio, React
 
 ---
 
@@ -91,7 +92,6 @@
 ## 📫 Contact Me
 
 - 📧 Email: 3222127483@qq.com  
-- 💬 Open to opportunities in Data Science / AI  
 
 ---
 

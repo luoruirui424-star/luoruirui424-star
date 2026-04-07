@@ -60,7 +60,7 @@
 - 🧠 Supports job parsing, resume optimization, and interactive editing
 - ⚙️ Developed front-end with React (real-time preview + multi-template)
 - 🔗 Integrated job APIs (LinkedIn / Indeed / JSearch)
-- 👉 [Project Link](你的项目链接)
+- 👉 http://8.136.204.42:3000
 
 ---
 

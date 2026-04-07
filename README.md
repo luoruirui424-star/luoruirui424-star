@@ -84,9 +84,9 @@
 
 ## 🏆 Achievements
 
-- 🥈 MCM/ICM Mathematical Contest in Modeling (Meritorious Winner)
-- 🏅 Lanqiao Cup (Provincial Award, Python B Group)
-- 🎓 Scholarship & Outstanding Student Leader  
+- 🥈 MCM/ICM 美国大学生数学建模比赛 (Meritorious Winner)
+- 🏅 第十六届蓝桥杯 (Provincial Award, Python B Group)
+- 🎓 校综合奖学金 & 优秀干部 & 优秀青年志愿者  
 
 ---
 

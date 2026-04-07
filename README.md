@@ -1,8 +1,10 @@
 # 👋 欢迎来到我的个人主页！
 
-🎓 南京邮电大学  数据科学与大数据技术专业 
-📊 Focus on Data Analysis / Product Manager / AI Applications  
-🚀 Actively seeking Data Analyst / Product Manager / AI-related roles (Spring Recruitment)
+🎓 B.S. in Data Science and Big Data Technology  
+📍 Nanjing University of Posts and Telecommunications  
+
+📊 Focus: Data Analysis | Product Management | AI Applications  
+🚀 Seeking: Data Analyst / Product Manager / AI-related Roles (Spring Recruitment)
 
 ---
 

@@ -1,7 +1,6 @@
 # 👋 欢迎来到我的个人主页！
 
-🎓 @南京邮电大学 Nanjing University of Posts and Telecommunications
-   数据科学与大数据技术专业 Data Science & Big Data Technology 
+🎓 南京邮电大学  数据科学与大数据技术专业 
 📊 Focus on Data Analysis / Product Manager / AI Applications  
 🚀 Actively seeking Data Analyst / Product Manager / AI-related roles (Spring Recruitment)
 
